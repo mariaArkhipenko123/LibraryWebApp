@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Library.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Library.WebApi.Controllers.BookController.GetAll(System.Int32,System.Int32)">
+            <summary>
+            Gets the list of books
+            </summary>
+            <remarks>
+            Sample request:
+            GET /book
+            </remarks>
+            <returns>Returns LibraryListVm</returns>
+            <response code="200">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+        <member name="M:Library.WebApi.Controllers.BookController.Get(System.Guid)">
+            <summary>
+            Gets the book by id
+            </summary>
+            <remarks>
+            Sample request:
+            GET /book/D34D349E-43B8-429E-BCA4-793C932FD580
+            </remarks>
+            <param name="id">Book id (guid)</param>
+            <returns>Returns LibraryDetailsVm</returns>
+            <response code="200">Success</response>
+            <response code="401">If the user in unauthorized</response>
+        </member>
+        <member name="M:Library.WebApi.Controllers.BookController.Create(Library.Application.Models.CreateLibraryDto)">
+            <summary>
+            Creates the book
+            </summary>
+            <remarks>
+            Sample request:
+            POST /book
+            {
+                title: "book title",
+                 descriptions: "book descriptions"
+            }
+            </remarks>
+            <param name="createlibraryeDto">CreateLibraryDto object</param>
+            <returns>Returns id (guid)</returns>
+            <response code="201">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+        <member name="M:Library.WebApi.Controllers.BookController.Update(Library.Application.Models.UpdateLibraryDto)">
+            <summary>
+            Updates the book
+            </summary>
+            <remarks>
+            Sample request:
+            PUT /book
+            {
+                title: "updated book title"
+            }
+            </remarks>
+            <param name="updatelibraryDto">UpdateLibraryDto object</param>
+            <returns>Returns NoContent</returns>
+            <response code="204">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+        <member name="M:Library.WebApi.Controllers.BookController.Delete(System.Guid)">
+            <summary>
+            Deletes the book by id
+            </summary>
+            <remarks>
+            Sample request:
+            DELETE /book/88DEB432-062F-43DE-8DCD-8B6EF79073D3
+            </remarks>
+            <param name="id">Id of the book (guid)</param>
+            <returns>Returns NoContent</returns>
+            <response code="204">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+    </members>
+</doc>

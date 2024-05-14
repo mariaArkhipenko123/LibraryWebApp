@@ -1,0 +1,15 @@
+D:\Solution\Library.backend\Library.Application\bin\Debug\net6.0\Library.Application.deps.json
+D:\Solution\Library.backend\Library.Application\bin\Debug\net6.0\Library.Application.dll
+D:\Solution\Library.backend\Library.Application\bin\Debug\net6.0\Library.Application.pdb
+D:\Solution\Library.backend\Library.Application\bin\Debug\net6.0\Library.Domain.dll
+D:\Solution\Library.backend\Library.Application\bin\Debug\net6.0\Library.Domain.pdb
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\Library.Application.csproj.AssemblyReference.cache
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\Library.Application.AssemblyInfoInputs.cache
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\Library.Application.AssemblyInfo.cs
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\Library.Application.csproj.CoreCompileInputs.cache
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\Library.Application.csproj.CopyComplete
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\Library.Application.dll
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\refint\Library.Application.dll
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\Library.Application.pdb
+D:\Solution\Library.backend\Library.Application\obj\Debug\net6.0\ref\Library.Application.dll

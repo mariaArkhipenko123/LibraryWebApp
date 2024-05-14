@@ -1,0 +1,17 @@
+D:\Solution\Library.Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.deps.json
+D:\Solution\Library.Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.runtimeconfig.json
+D:\Solution\Library.Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.dll
+D:\Solution\Library.Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.pdb
+D:\Solution\Library.Identity\Identity.Data\bin\Debug\net6.0\Identity.Domain.dll
+D:\Solution\Library.Identity\Identity.Data\bin\Debug\net6.0\Identity.Domain.pdb
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.csproj.AssemblyReference.cache
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.AssemblyInfoInputs.cache
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.AssemblyInfo.cs
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.csproj.CoreCompileInputs.cache
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.csproj.CopyComplete
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.dll
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\refint\Identity.Data.dll
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.pdb
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.genruntimeconfig.cache
+D:\Solution\Library.Identity\Identity.Data\obj\Debug\net6.0\ref\Identity.Data.dll
